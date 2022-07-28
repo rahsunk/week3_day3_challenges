@@ -12,3 +12,8 @@ img {
 	border: 5px solid black;
 	width: 516px;
 }
+
+#b{
+	display:flex;
+	align-items: column;
+}
